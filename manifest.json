@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "image translator",
+  "description": "my chrome extension",
+  "version": "1.1",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
+  }
+}
